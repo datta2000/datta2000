@@ -5,7 +5,7 @@
 
 - 👨‍💻 I’m currently working in **Accenture**
 
-- 💬 Ask me about **HTML,CSS,Javascript,Python,React.js,Django**
+- 💬 Ask me about **Python,,Django'HTML,CSS,MySQL**
 
 - 📫 How to reach me **datta.tekale.2000@gmail.com**
 
